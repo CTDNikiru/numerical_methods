@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Nikita\source\repos\Interpolation\Interpolation\Source.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Nikita\source\repos\Interpolation\Interpolation\smooth.h(17,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Interpolation\Interpolation\Source.cpp(14,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Interpolation\Interpolation\Source.cpp(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Interpolation\Interpolation\Source.cpp(31,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Interpolation\Interpolation\Source.cpp(44,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Interpolation\Interpolation\Source.cpp(56,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Interpolation\Interpolation\Source.cpp(62,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Interpolation\Interpolation\Source.cpp(78,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Interpolation\Interpolation\Source.cpp(84,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nikita\source\repos\Interpolation\Interpolation\Source.cpp(106,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Interpolation.vcxproj -> C:\Users\Nikita\source\repos\Interpolation\Debug\Interpolation.exe
